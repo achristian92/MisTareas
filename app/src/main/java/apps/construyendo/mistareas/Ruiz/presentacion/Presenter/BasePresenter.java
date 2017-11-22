@@ -1,6 +1,6 @@
-package apps.construyendo.mistareas.Presenter.Presenter;
+package apps.construyendo.mistareas.Presenter.presentacion.Presenter;
 
-import apps.construyendo.mistareas.Presenter.View.BaseView;
+import apps.construyendo.mistareas.Presenter.presentacion.View.BaseView;
 
 /**
  * Created by Christian 24 on 17/11/2017.

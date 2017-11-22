@@ -1,4 +1,4 @@
-package apps.construyendo.mistareas.Presenter.Model;
+package apps.construyendo.mistareas.Ruiz.presentacion.Model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

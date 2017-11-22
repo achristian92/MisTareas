@@ -1,10 +1,10 @@
-package apps.construyendo.mistareas.Presenter.Presenter;
+package apps.construyendo.mistareas.Presenter.presentacion.Presenter;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import apps.construyendo.mistareas.Presenter.Model.Tareas;
-import apps.construyendo.mistareas.Presenter.View.TareasView;
+import apps.construyendo.mistareas.Presenter.presentacion.Model.Tareas;
+import apps.construyendo.mistareas.Presenter.presentacion.View.TareasView;
 
 /**
  * Created by Christian 24 on 17/11/2017.
